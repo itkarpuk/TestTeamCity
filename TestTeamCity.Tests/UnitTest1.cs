@@ -11,7 +11,7 @@ namespace TestTeamCity.Tests
         }
 
         [Test]
-        [TestCase(1, 1, 2)]
+        [TestCase(1, 1, 3)]
         public void GetSum_ValidArguments_ResulCorrectSum(int a, int b, int expectedSum)
         {
             var actualSum = Program.GetSum(a, b);
