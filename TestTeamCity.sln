@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTeamCity", "TestTeamCity\TestTeamCity.csproj", "{4886CCAB-434F-4627-B37E-3141E3822D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTeamCity.Tests", "TestTeamCity.Tests\TestTeamCity.Tests.csproj", "{122B2AA5-FBF5-494C-B6E3-A4B3FD466694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4886CCAB-434F-4627-B37E-3141E3822D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4886CCAB-434F-4627-B37E-3141E3822D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4886CCAB-434F-4627-B37E-3141E3822D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4886CCAB-434F-4627-B37E-3141E3822D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122B2AA5-FBF5-494C-B6E3-A4B3FD466694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122B2AA5-FBF5-494C-B6E3-A4B3FD466694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122B2AA5-FBF5-494C-B6E3-A4B3FD466694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122B2AA5-FBF5-494C-B6E3-A4B3FD466694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57348095-2D39-486B-9245-F8497C76502C}
+	EndGlobalSection
+EndGlobal
