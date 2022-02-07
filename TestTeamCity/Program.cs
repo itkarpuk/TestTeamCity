@@ -9,6 +9,8 @@ namespace TestTeamCity
             Console.WriteLine("Hello World!");
             Console.WriteLine(GetSum(10, 20));
             Console.WriteLine("-----------------------------------\nThe END!");
+
+            Console.ReadKey();
         }
 
         public static int GetSum(int a, int b)
