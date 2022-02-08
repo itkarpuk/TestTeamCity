@@ -6,7 +6,7 @@ namespace TestTeamCity
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi user!");
             Console.WriteLine(GetSum(10, 20));
             Console.WriteLine("-----------------------------------\nThe END!");
 
