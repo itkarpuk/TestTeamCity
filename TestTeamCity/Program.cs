@@ -15,7 +15,7 @@ namespace TestTeamCity
 
         public static int GetSum(int a, int b)
         {
-            return a + b + 10;
+            return a + b;
         }
     }
 }
