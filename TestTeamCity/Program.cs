@@ -12,6 +12,7 @@ namespace TestTeamCity
             Console.WriteLine("-----------------------------------\nThe END!");
 
             Console.ReadKey();
+            //
         }
 
         public static int GetSum(int a, int b)
